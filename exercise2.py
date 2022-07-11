@@ -1,0 +1,1 @@
+#Escribe un programa que reciba como entrada (por teclado) una secuencia de palabras separadas por espacios en blanco e imprima las palabras ordenadas alfanuméricamente, en mayúsculas y después de haber eliminado todas las duplicadas.
