@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Gabriel.</h2>
+<h2> Hey I'm Gabriel.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -35,7 +35,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-vargas-vargas-6953b1216/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Octavio%20Vargas-blue?style=flat-square&logo=linkedin"></a>
-
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
