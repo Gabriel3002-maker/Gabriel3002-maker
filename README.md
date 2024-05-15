@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I like to explore new technologies, specially in thue automation of CI/CD  for best the efficiency and productivity.
+- 🤔 &nbsp; I like to explore new technologies, specially in the automation of CI/CD  for best the efficiency and productivity.
 - 🎓 &nbsp; Study Software Development in the Institute Técnologic "LOS ANDES". 
 - 💼 &nbsp; I work with software developer FullStack..
 
